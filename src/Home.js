@@ -36,8 +36,6 @@ export default function HomeScreen({route, navigation}) {
   const carBrands = [
     'Toyota',
     'Ford',
-    'c7',
-    'c8',
     'Honda',
     'Chevrolet',
     'Nissan',
