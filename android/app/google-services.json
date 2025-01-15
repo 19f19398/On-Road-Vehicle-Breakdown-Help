@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193481836835",
+    "project_id": "breakdownoman",
+    "storage_bucket": "breakdownoman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193481836835:android:a995fcce3f8425c4e9a496",
+        "android_client_info": {
+          "package_name": "com.breakdownoman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZL0xLfhi3R-bIsgahz9hItT7rIgs2Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193481836835:android:1d022433d07f523fe9a496",
+        "android_client_info": {
+          "package_name": "com.omanbreakdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZL0xLfhi3R-bIsgahz9hItT7rIgs2Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
